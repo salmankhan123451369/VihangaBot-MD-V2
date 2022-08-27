@@ -8,8 +8,8 @@
   
 "WELCOME_AND_GOODBYE" :{
     "description" : "IF YOU NEED TO OFF THIS TYPE : false",
-    "required" : true,
-  "value" : "true"
+    "required" : false,
+  "value" : "false"
     },
       
 "AUTO_BIO" :{
@@ -45,25 +45,25 @@
 "OWNER_REACT_EMOJI" :{
     "description" : "TYPE ANY EMOJI TO OWNER REACT",
     "required" : true,
-  "value" : "🧑"
+  "value" : "😉"
     },
       
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "923231582002"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "923231582002"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "923231582002"
     },
     
 "BOT_NAME" :{
